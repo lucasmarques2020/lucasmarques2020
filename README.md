@@ -14,7 +14,7 @@ more and see my work in the "Portfolio"area. Until later!</p>
 <br>
 
 - 🔭 I’m currently working on fron-end developer
-- 🌱 I’m currently learning vue.js, Svelte and node.js
+- 🌱 I’m currently learning react-native, Svelte and node.js
 - 🤔 I'm looking for help with front-end creating page website
 - 💬 Ask me about web design
 - 📫 How to reach me: lucas.marques.bandeira@gmail.com
