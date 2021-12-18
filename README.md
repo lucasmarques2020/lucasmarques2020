@@ -1,7 +1,7 @@
 ### <h1>Hi, my name is Lucas Marques Bandeira!</h1>
 <br>
 <h2>About me</h2>
-<p>Hi! Are you all right? My name is Lucas Marques Bandeira. I am 23 
+<p>Hi! Are you all right? My name is Lucas Marques Bandeira. I am 24 
 years old and I am studying Computer Science at IFCE - Federal 
 Institute of Education, Science and Technology of Ceará / Campus 
 Aracati / Ce. I've been working with UX/UI Design creation for 5 years 
