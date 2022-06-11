@@ -1,17 +1,7 @@
 ### <h1>Hi, my name is Lucas Marques Bandeira!</h1>
 <br>
 <h2>About me</h2>
-<p>Hi! Are you all right? My name is Lucas Marques Bandeira. I am 24 
-years old and I am studying Computer Science at IFCE - Federal 
-Institute of Education, Science and Technology of Ceará / Campus 
-Aracati / Ce. I've been working with UX/UI Design creation for 5 years 
-in order to develop the best user experience. I work with prototyping 
-and have experience and dominance in Figma, Inkscape and Gimp.
-I am enthusiastic about Design (UX and UI), every detail is a new experience 
-for the user. Front-End developer for 2 years. I have experience with HTML,
-CSS and JS. I'm currently developing skills in React Native, React JS and Svelte. 
-I use Git to create repositories and organize applications. Using agile methodologies
-for jobs like SCRUM. Stay a few more and see my work in the "Portfolio" area. Until later!</p>
+<p>I've been a Front-End Developer for 2 years. I have experience with HTML, Javascript, React Js, React Native, Svelte. In styling I worked with CSS, Sass and I'm currently studying Tailwind. I'm honing and improving skills in React Js and Twig. I use Git, Bitback and Gitlab to create the management and organization of applications. Using agile methodologies for jobs like SCRUM.</p>
 
 <br>
 
