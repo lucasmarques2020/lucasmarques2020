@@ -1,7 +1,7 @@
 ### <h1>Hi, my name is Lucas Marques Bandeira!</h1>
 <br>
 <h2>About me</h2>
-<p>I've been a Front-End Developer for 2 years. I have experience with HTML, Javascript, React Js, React Native, Svelte. In styling I worked with CSS, Sass and I'm currently studying Tailwind. I'm honing and improving skills in React Js and Twig. I use Git, Bitback and Gitlab to create the management and organization of applications. Using agile methodologies for jobs like SCRUM.</p>
+<p>I've been a Front-End Developer for 2 years. I have experience with HTML, Javascript, React Js, React Native, Svelte. In styling I worked with CSS, Sass and I'm currently studying Tailwind. I'm honing and improving skills in React Js and Twig. I use Git, bitbucket and Gitlab to create the management and organization of applications. Using agile methodologies for jobs like SCRUM.</p>
 
 <br>
 
