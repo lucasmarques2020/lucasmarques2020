@@ -3,13 +3,16 @@
 ## 🚀 About me
 Front-End Developer with 4+ years of experience building modern and scalable web applications.
 
-I have worked with:
-- JavaScript, Vue.js
-- Craft CMS, Twig, PHP, CakePHP
-- CSS, Sass, Tailwind
+I have experience with:
+- JavaScript, Vue.js  
+- Craft CMS, Twig, PHP, CakePHP  
+- CSS, Sass, Tailwind  
 
-💡 I focus on clean code, performance and good user experience.  
-📌 Experience working with GitHub, GitLab and Bitbucket using Agile methodologies (Scrum & Kanban).
+💡 Focused on clean code, performance and user experience.  
+📌 Experience using GitHub, GitLab and Bitbucket with Agile methodologies (Scrum & Kanban).
+
+- 🔭 Currently working as Front-end Developer  
+- 📫 Contact: lucas.marques.bandeira@gmail.com  
 
 ---
 
@@ -33,6 +36,9 @@ I have worked with:
 
 ## 📫 Contact
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas.marques_b)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)  
+**Username:** lucasmarquesbandeira  
+
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.marques.bandeira@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-marques-bandeira-452440113)
