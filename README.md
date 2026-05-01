@@ -36,9 +36,6 @@ I have experience with:
 
 ## 📫 Contact
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)  
-**Username:** lucasmarquesbandeira  
-
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.marques.bandeira@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-marques-bandeira-452440113)
