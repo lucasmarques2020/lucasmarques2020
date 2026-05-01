@@ -31,6 +31,15 @@ I have worked with:
 
 ---
 
+## 📊 GitHub Stats
+
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmarques2020&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarques2020&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
 ## 📫 Contact
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas.marques_b)
